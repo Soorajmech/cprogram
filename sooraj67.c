@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include<conio.h>
-int main() 
+void main() 
 {
 	int num;
 	printf("enter the number:");
@@ -12,5 +12,4 @@ int main()
 	}
 	printf("\n%d",num);
   getch();
-	return 0;
 }
